@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Recipe</string>
+    <string name="recipe_name">Judul Resep</string>
+    <string name="detail">Detail</string>
+    <string name="my_name">Nama Anda</string>
+    <string name="about_author">About Author</string>
+    <string name="title_activity_child">About Author</string>
+
+    <string name="ingredients">Ingredients</string>
+    <string name="list_ingredients">Ingredients list</string>
+    <string name="directions">Directions</string>
+    <string name="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>
